@@ -1,0 +1,6 @@
+framework module MJLayout {
+  umbrella header "MJLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

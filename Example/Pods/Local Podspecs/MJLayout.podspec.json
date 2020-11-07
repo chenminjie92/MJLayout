@@ -1,0 +1,22 @@
+{
+  "name": "MJLayout",
+  "version": "0.1.0",
+  "summary": "A short description of MJLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/陈敏杰/MJLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈敏杰": "845083062@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/陈敏杰/MJLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MJLayout/Classes/**/*"
+}

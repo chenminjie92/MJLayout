@@ -1,0 +1,16 @@
+PODS:
+  - MJLayout (0.1.0)
+
+DEPENDENCIES:
+  - MJLayout (from `../`)
+
+EXTERNAL SOURCES:
+  MJLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJLayout: 4c934ae58ac7ab40c9ba3bbcffecc24c77399142
+
+PODFILE CHECKSUM: 46cdd69e5e433c83d33ec2abda7e51f203a99022
+
+COCOAPODS: 1.10.0
